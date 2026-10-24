@@ -32,6 +32,7 @@ Sigue los módulos en orden secuencial para ir desde cero hasta la implementaci�
 | [**03_enriquecimiento_de_datos**](./03_enriquecimiento_de_datos) | **Data Wrangling** | Uniones (`joins`), transformaciones y variables derivadas. |
 | [**04_estadistica**](./04_estadistica) | **Estadística Intuitiva** | Análisis exploratorio (EDA), distribuciones e inferencia visual. |
 | [**05_machine_learning**](./05_machine_learning) | **Modelos Predictivos** | Regresión, clasificación y evaluación con Scikit-Learn. |
+| [**06_proyectos_integradores**](./06_proyectos_integradores) | **Casos Prácticos End-to-End** | Proyectos integradores aplicados a problemas del mundo real. |
 
 ---
 
