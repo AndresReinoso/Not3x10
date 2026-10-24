@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/not3x10-logo.png" alt="not3x10 Logo" width="500"/>
+  <img src="LogoNot3x10.png" alt="not3x10 Logo" width="500"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Los 6 Problemas que Combatimos
+## Los 6 Problemas que Combatimos
 
 1. **Lenguaje Complejo** ──> Explicaciones directas y sin rodeos.
 2. **Mucha Información** ──> Síntesis extrema (ir directo al grano).
@@ -30,7 +30,7 @@
 
 ---
 
-## 🗺️ Ruta de Aprendizaje (Roadmap)
+## Ruta de Aprendizaje (Roadmap)
 
 Sigue los módulos en orden secuencial para ir desde cero hasta la implementación de modelos predictivos:
 
@@ -45,7 +45,7 @@ Sigue los módulos en orden secuencial para ir desde cero hasta la implementaci�
 
 ---
 
-## 🚀 ¿Cómo usar este repositorio?
+## ¿Cómo usar este repositorio?
 
 1. Haz un **Fork** de este repositorio para tener tu propia copia.
 2. Clona el proyecto localmente en tu máquina:
