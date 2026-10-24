@@ -1,14 +1,13 @@
 ![Logo de Not3x10](Assets/LogoNot3x10.png)
 
-#  Not3x10 — Ciencia de Datos en Español y a la Práctica
+# Ciencia de Datos Paso a Paso
 
-Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad innecesaria en el aprendizaje de la Ciencia de Datos con Python. 
-
-Acá no encontrarás teoría abstracta ni explicaciones eternas: nos enfocamos en **intuición rápida**, **código limpio** y **problemas reales de negocio**.
+Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad innecesaria en el aprendizaje de la Ciencia de Datos con Python. Acá no encontrarás teoría abstracta ni explicaciones eternas.
 
 ---
 
 ## 🎯 Los 6 Problemas que Combatimos
+
 1. 🗣️ **Lenguaje Complejo** $\rightarrow$ Explicaciones directas y en español llano.
 2. 📚 **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
 3. 🌀 **Ejemplos Abstractos** $\rightarrow$ Casos basados en problemas reales.
