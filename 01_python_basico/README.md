@@ -1,4 +1,4 @@
-![Logo de Not3x10](Assets/LogoNot3x10.png)
+![Logo de Not3x10](../Assets/LogoNot3x10.png)
 
 # 01. Python Básico
 
