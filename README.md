@@ -27,7 +27,7 @@
 4. **Pocos Ejemplos Prácticos** ──> Código ejecutable desde el Día 1.
 5. **Organización Deficiente** ──> Estructura modular y estandarizada.
 6. **Conexión Real con el Aprendizaje** ──> Retos aplicados y proyectos end-to-end.
-7. **Validadores Automáticos Rígidos** ──> Eliminamos la pérdida de tiempo en autograders para enfocarnos en aprender a pensar, no a memorizar.
+7. **Validadores Automáticos Rígidos** ──> Cero bloqueos por autograders: aprender a pensar sobre memorizar plantillas.
 
 ---
 
