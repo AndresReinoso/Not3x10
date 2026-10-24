@@ -1,3 +1,5 @@
+![Logo de Not3x10](Assets/LogoNot3x10.png)
+
 #  Not3x10 — Ciencia de Datos en Español y a la Práctica
 
 Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad innecesaria en el aprendizaje de la Ciencia de Datos con Python. 
