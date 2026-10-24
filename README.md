@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Logo de Not3x10](Assets/LogoNot3x10.png)
+
+</div>
 
 # Ciencia de Datos Paso a Paso
 
@@ -8,12 +12,12 @@ Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad inn
 
 ## Los 6 Problemas que Combatimos
 
-1.  **Lenguaje Complejo** $\rightarrow$ Explicaciones directas.
-2.  **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
-3.  **Ejemplos Abstractos** $\rightarrow$ Casos basados en problemas reales.
-4.  **Pocos Ejemplos Prácticos** $\rightarrow$ Código ejecutable desde el día 1.
-5.  **Organización Deficiente** $\rightarrow$ Estructura modular y estandarizada.
-6.  **Conexión Real con el Aprendizaje** $\rightarrow$ Retos aplicados y proyectos.
+1. **Lenguaje Complejo** $\rightarrow$ Explicaciones directas.
+2. **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
+3. **Ejemplos Abstractos** $\rightarrow$ Casos basados en problemas reales.
+4. **Pocos Ejemplos Prácticos** $\rightarrow$ Código ejecutable desde el día 1.
+5. **Organización Deficiente** $\rightarrow$ Estructura modular y estandarizada.
+6. **Conexión Real con el Aprendizaje** $\rightarrow$ Retos aplicados y proyectos.
 
 ---
 
@@ -32,6 +36,7 @@ Sigue los módulos en orden secuencial para ir desde cero hasta la implementaci�
 ---
 
 ## ¿Cómo usar este repositorio?
+
 1. Haz un **Fork** de este repositorio para tener tu propia copia.
 2. Clona el proyecto localmente:
    ```bash
