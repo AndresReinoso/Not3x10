@@ -6,7 +6,7 @@ Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad inn
 
 ---
 
-## 🎯 Los 6 Problemas que Combatimos
+## Los 6 Problemas que Combatimos
 
 1.  **Lenguaje Complejo** $\rightarrow$ Explicaciones directas.
 2.  **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
@@ -17,7 +17,7 @@ Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad inn
 
 ---
 
-## 🗺️ Ruta de Aprendizaje (Roadmap)
+## Ruta de Aprendizaje (Roadmap)
 
 Sigue los módulos en orden secuencial para ir desde cero hasta la implementación de modelos:
 
@@ -31,7 +31,7 @@ Sigue los módulos en orden secuencial para ir desde cero hasta la implementaci�
 
 ---
 
-## ⚡ ¿Cómo usar este repositorio?
+## ¿Cómo usar este repositorio?
 1. Haz un **Fork** de este repositorio para tener tu propia copia.
 2. Clona el proyecto localmente:
    ```bash
