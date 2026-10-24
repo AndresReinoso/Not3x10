@@ -8,12 +8,12 @@ Bienvenido a **Not3x10**, un proyecto diseñado para eliminar la complejidad inn
 
 ## 🎯 Los 6 Problemas que Combatimos
 
-1. 🗣️ **Lenguaje Complejo** $\rightarrow$ Explicaciones directas y en español llano.
-2. 📚 **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
-3. 🌀 **Ejemplos Abstractos** $\rightarrow$ Casos basados en problemas reales.
-4. 🛠️ **Pocos Ejemplos Prácticos** $\rightarrow$ Código ejecutable desde el día 1.
-5. 📂 **Organización Deficiente** $\rightarrow$ Estructura modular y estandarizada.
-6. 💡 **Conexión Real con el Aprendizaje** $\rightarrow$ Retos aplicados y proyectos.
+1.  **Lenguaje Complejo** $\rightarrow$ Explicaciones directas y en español llano.
+2.  **Mucha Información** $\rightarrow$ Síntesis extrema (ir directo al grano).
+3.  **Ejemplos Abstractos** $\rightarrow$ Casos basados en problemas reales.
+4.  **Pocos Ejemplos Prácticos** $\rightarrow$ Código ejecutable desde el día 1.
+5.  **Organización Deficiente** $\rightarrow$ Estructura modular y estandarizada.
+6.  **Conexión Real con el Aprendizaje** $\rightarrow$ Retos aplicados y proyectos.
 
 ---
 
