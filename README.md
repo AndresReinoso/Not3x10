@@ -23,7 +23,7 @@
 
 1. **Lenguaje Complejo** ──> Explicaciones directas y sin rodeos.
 2. **Mucha Información** ──> Síntesis extrema (ir directo al grano).
-3. **Ejemplos Abstractos** ──> Casos basados en problemas reales del mundo laboral.
+3. **Ejemplos Abstractos** ──> Ejemplos basados en problemas reales.
 4. **Pocos Ejemplos Prácticos** ──> Código ejecutable desde el Día 1.
 5. **Organización Deficiente** ──> Estructura modular y estandarizada.
 6. **Conexión Real con el Aprendizaje** ──> Retos aplicados y proyectos end-to-end.
